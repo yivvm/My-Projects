@@ -18,4 +18,4 @@
 - Created the prototype and the wireframe of a reservation page for a restaurant. https://github.com/yivvm/Project_UX_UI_Figma_LittleLemonRestaurant?tab=readme-ov-file
 ## APIs
 - Created a full stack booking system for a restaurant. https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main; https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
-- 
+
