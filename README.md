@@ -1,5 +1,5 @@
 # My-Projects
-## Full Stack
+## Full-Stack
 - Created a full stack booking system for a restaurant. https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main; https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 ## Python
 - Created a full stack booking system for a restaurant. https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main; https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
