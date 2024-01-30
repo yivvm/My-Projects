@@ -21,7 +21,7 @@
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a home page for a restaurant. https://github.com/yivvm/Project_html_LittleLemonRestaurant
 - Created a menu page and menu items for a restaurant. https://github.com/yivvm/Project_Django_Menu
-- Created a home page and log and registration page for a travel website. https://github.com/yivvm/Project-Travel-Website.git
+- Created a home page and login and registration page for a travel website. https://github.com/yivvm/Project-Travel-Website.git
 ## React
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
