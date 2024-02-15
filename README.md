@@ -13,7 +13,7 @@
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a menu page and mennu items for a restaurant. https://github.com/yivvm/Project_Django_Menu
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
-- Created a calculator.
+- Created a calculator. 
 - Created a word-guessing game.
 - Created a snake game.
 ## HTML & CSS
