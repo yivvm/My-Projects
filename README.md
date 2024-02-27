@@ -18,7 +18,7 @@
 - Created a menu page and mennu items for a restaurant. https://github.com/yivvm/Project_Django_Menu
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
 - Created a calculator. 
-- Created a word-guessing game. 
+- Created a word-guessing game.  
 - Created a snake game.
 ## HTML & CSS
 - Created a website (4 pages) for my natioanl park gallery and information and forms. https://github.com/yivvm/Project-HTML-National-Parks-Gallery.git
