@@ -9,7 +9,8 @@
   6) https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 ## JavaScript
-- Created an Appointment Scheduler web application. 
+- Created an Appointment Scheduler web application. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
+- Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
 - Created my pokedex. https://github.com/yivvm/Project-My-Pokedex.git
 - Created an Adventure Game Inventory System. https://github.com/yivvm/Project-JavaScript-Adventure-Game-Inventory-System.git
 - DOM Manipulation. https://github.com/yivvm/JavaScript-DOM-Manipulation.git
