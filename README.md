@@ -11,6 +11,7 @@
 ## JavaScript
 - Created NParkdex, a web application that displays information about national parks. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Appointment Scheduler web application. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
+- Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
 - Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
 - Created my pokedex. https://github.com/yivvm/Project-My-Pokedex.git
 - Created an Adventure Game Inventory System. https://github.com/yivvm/Project-JavaScript-Adventure-Game-Inventory-System.git
