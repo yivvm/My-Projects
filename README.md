@@ -15,6 +15,7 @@
 - Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
 - Created my pokedex. https://github.com/yivvm/Project-My-Pokedex.git
 - Created an Adventure Game Inventory System. https://github.com/yivvm/Project-JavaScript-Adventure-Game-Inventory-System.git
+- Created a simple command-line chat interface using the OpenAI GPT-3.5 model. https://github.com/yivvm/Project-API-ChatGPT.git
 - DOM Manipulation. https://github.com/yivvm/JavaScript-DOM-Manipulation.git
 - Data Process for assignment submission. https://github.com/yivvm/JavaScript-SBA-308.git
 - Created a number-guessing game. 
