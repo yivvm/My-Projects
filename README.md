@@ -17,11 +17,12 @@
 - DOM Manipulation. https://github.com/yivvm/JavaScript-DOM-Manipulation.git
 - Data Process for assignment submission. https://github.com/yivvm/JavaScript-SBA-308.git
 - Created a number-guessing game. 
-## Python 
+## Python  
 - Created a fully functional web application: composed a back-end application; served static HTML content using Django; connected the back-end to MySQL; developed REST APIs for a restaurant’s menu and booking systems and for staff daily operations, using Python, Django, Django REST Framework, and GitHub Actions, following the principles of Test-Driven Development. The API supports user registration and authentication, object creation, filtering and sorting of objects, and image uploading and viewing.  https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main; https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main 
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a menu page and mennu items for a restaurant. https://github.com/yivvm/Project_Django_Menu
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
+- Converted many excel files to text files and json files. 
 - Created a calculator. 
 - Created a word-guessing game.  
 - Created a snake game.
