@@ -8,7 +8,7 @@
   5) The API supports user registration and authentication, object creation, filtering and sorting of objects, and image uploading and viewing.
   6) https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
-## JavaScript
+## JavaScript 
 - Created NParkdex, a web application that displays information about national parks. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Appointment Scheduler web application. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
 - Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
