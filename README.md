@@ -10,7 +10,7 @@
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 ## Back-end
 - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
-## JavaScript 
+## JavaScript  
 - Created NParkdex, a web application that displays information about national parks. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Appointment Scheduler web application. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
 - Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
