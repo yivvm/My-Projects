@@ -1,7 +1,7 @@
 # My-Projects
 ## Full-Stack
 - Created a fully functional web application:
-  1) composed a back-end application;
+  1) composed a back-end application; 
   2) served static HTML content using Django;
   3) connected the back-end to MySQL; 
   4) developed REST APIs for a restaurant’s menu and booking systems and for staff daily operations, using Python, Django, Django REST Framework, and GitHub Actions, following the principles of Test-Driven Development.
