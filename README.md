@@ -12,7 +12,7 @@
 - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
 ## JavaScript  
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
-- Created an Appointment Scheduler web application. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
+- Created an Urgent Care Appointment Scheduler web application. Users can select a date and time for their appointment, view available time slots, and submit their appointment details. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
 - Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
 - Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
 - Created my pokedex. https://github.com/yivvm/Project-My-Pokedex.git
