@@ -13,6 +13,7 @@
 ## React
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
+- Created a React application that fetches and displays a list of Pokémon from the PokeAPI. https://github.com/yivvm/Project-React-Pokemon.git
 - Creat a todo list application using React. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List.git
 ## JavaScript  
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
