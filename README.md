@@ -11,9 +11,9 @@
 ## Back-end
 - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
 ## React
-- Creat a todo list application using React. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List.git
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
+- Creat a todo list application using React. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List.git
 ## JavaScript  
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Urgent Care Appointment Scheduler web application. Users can select a date and time for their appointment, view available time slots, and submit their appointment details. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
