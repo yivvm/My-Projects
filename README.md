@@ -15,6 +15,7 @@
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
 - Created a fighters card game. https://github.com/yivvm/Project-React-Fighters-Card-Game.git
+- Created a book search application using the Open Libary API and axios. It dynamically loads more books as you scroll down the page. https://github.com/yivvm/Project-React-Infinity-Scrolling-API.git
 - Created a React application that fetches and displays a list of Pokémon from the PokeAPI. https://github.com/yivvm/Project-React-Pokemon.git
 - Creat a todo list application using React. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List.git
 ## JavaScript  
