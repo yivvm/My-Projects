@@ -16,6 +16,7 @@
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
 - Created a fighters card game. https://github.com/yivvm/Project-React-Fighters-Card-Game.git
 - Created a book search application using the Open Libary API and axios. It dynamically loads more books as you scroll down the page. https://github.com/yivvm/Project-React-Infinity-Scrolling-API.git
+- Created a Flashcard Quiz Application using React and Open Trivia Database API. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
 - Created a React application that fetches and displays a list of Pokémon from the PokeAPI. https://github.com/yivvm/Project-React-Pokemon.git
 - Creat a todo list application using React. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List.git
 ## JavaScript  
@@ -42,6 +43,7 @@
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
 - Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
+- Created a Flashcard Quiz Application using React and Open Trivia Database API. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
 - Created my pokedex. https://github.com/yivvm/Project-My-Pokedex.git
 - Created a fully functional web application: composed a back-end application; served static HTML content using Django; connected the back-end to MySQL; developed REST APIs for a restaurant’s menu and booking systems and for staff daily operations, using Python, Django, Django REST Framework, and GitHub Actions, following the principles of Test-Driven Development. The API supports user registration and authentication, object creation, filtering and sorting of objects, and image uploading and viewing. https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main; https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 ## HTML & CSS
