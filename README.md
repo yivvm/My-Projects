@@ -8,7 +8,7 @@
   5) The API supports user registration and authentication, object creation, filtering and sorting of objects, and image uploading and viewing.
   6) https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
-- Create a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-MERN-CRUD-notes.git
+- Create a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
 ## Back-end
 - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
 - Created a server application with Mongoose, providing endpoints to manage information about national parks, park codes, and associated images. https://github.com/yivvm/Project-Mongoose-National-Parks-Info.git
