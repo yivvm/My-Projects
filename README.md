@@ -1,5 +1,9 @@
 # My-Projects
 ## Full-Stack
+- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
+  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
+  2) The backend communicates with the MongoDB database to store and retrieve data.
+  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
 - Created a fully functional web application:
   1) composed a back-end application; 
   2) served static HTML content using Django; 
@@ -11,11 +15,19 @@
 - Create a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
 - Create a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
 ## Back-end
+- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
+  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
+  2) The backend communicates with the MongoDB database to store and retrieve data.
+  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
 - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
 - Created a server application with Mongoose, providing endpoints to manage information about national parks, park codes, and associated images. https://github.com/yivvm/Project-Mongoose-National-Parks-Info.git
 - Create a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
 - Create a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
 ## React
+- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
+  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
+  2) The backend communicates with the MongoDB database to store and retrieve data.
+  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
 - Created MedFinder, a React Doctor Search Engine with Redux State Management, is a web application built with React that allows users to search and browse a directory of doctors and healthcare providers. Users can refine their search results based on various criteria and view detailed information about each provider featured as flip cards. https://github.com/yivvm/Project-React-Doctorlist.git
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Create a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
@@ -48,6 +60,10 @@
 - Created a snake game.
 ## APIs
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
+- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
+  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
+  2) The backend communicates with the MongoDB database to store and retrieve data.
+  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
 - Created an Image Search Application to search for images using the Unsplash API. https://github.com/yivvm/Project-API-Image-Search.git
 - Created a website and utilized the Cat API to display information and images of different cat breeds. https://github.com/yivvm/Projects-JavaScript-Cat-APIs.git 
 - Created a Flashcard Quiz Application using React and Open Trivia Database API. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
