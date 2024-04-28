@@ -1,5 +1,18 @@
 # My-Projects
 ## Full-Stack
+
+| Header 1 | Header 2 | Header 3|
+|----------|----------|----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 |
+| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 |
+
+
+
+| Projects | Preview | 
+|----------|----------|
+| * Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). `1)` It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit. `2)` The backend communicates with the MongoDB database to store and retrieve data. `3)` React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers. `4)` Technologies Used: HTML, CSS, JavaScript, React, React Router, Redux (for managing application state), Axios, Pokemon API, MongoDB, Express, Node.js, Mongoose. https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git | img |
+     
 - Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
   1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
   2) The backend communicates with the MongoDB database to store and retrieve data.
