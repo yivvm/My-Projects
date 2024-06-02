@@ -1,8 +1,5 @@
-# My-Projects
+# My Projects
 ## Full-Stack
-| Projects | Preview |     
-|----------|----------|   
-| * Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). `1)` It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit. `2)` The backend communicates with the MongoDB database to store and retrieve data. `3)` React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers. `4)` Technologies Used: HTML, CSS, JavaScript, React, React Router, Redux (for managing application state), Axios, Pokemon API, MongoDB, Express, Node.js, Mongoose. https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git | img |
       
 - Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
   1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
@@ -18,7 +15,8 @@
   6) https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 - Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
-- Created a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
+
+# Additional Practice
 ## Back-end
 - Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
   1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
