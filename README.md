@@ -5,7 +5,10 @@
   1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
   2) The backend communicates with the MongoDB database to store and retrieve data.
   3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
-  4) Technologies Used: HTML | CSS | JavaScript | React | React Router | Redux (for managing application state) | Axios | Pokemon API | MongoDB | Express | Node.js | Mongoose
+  4) Technologies Used: HTML | CSS | JavaScript | React | React Router | Redux (for managing application state) | Axios | Pokemon API | MongoDB | Express | Node.js | Mongoose   
+
+- Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git 
+
 - Created a fully functional web application:
   1) composed a back-end application; 
   2) served static HTML content using Django; 
@@ -14,7 +17,6 @@
   5) The API supports user registration and authentication, object creation, filtering and sorting of objects, and image uploading and viewing.
   6) https://github.com/yivvm/Project-Little-Lemon-Web-Application-v2/tree/main
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
-- Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
 
 # Additional Practice
 ## Back-end
