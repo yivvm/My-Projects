@@ -60,3 +60,5 @@
 - Created a snake game.
 ## Figma UX/UI
 - Created a wireframe and a high-fidelity prototype of a reservation page for a restaurant. https://github.com/yivvm/Project_UX_UI_Figma_LittleLemonRestaurant?tab=readme-ov-file
+
+---37
