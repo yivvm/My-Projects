@@ -29,7 +29,7 @@
 - Created a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
  
 # Additional Practice
-## React (7)
+## React
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a book search application using the **Open Libary API** and axios. It dynamically loads more books as you scroll down the page. https://github.com/yivvm/Project-React-Infinity-Scrolling-API.git
 - Created a Flashcard Quiz Application using React and **Open Trivia Database API**. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
@@ -37,6 +37,7 @@
 - Created a React application that fetches and displays a list of Pokémon from the **PokeAPI**. https://github.com/yivvm/Project-React-Pokemon.git
 - Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
 - Created a fighters card game. https://github.com/yivvm/Project-React-Fighters-Card-Game.git
+(7)
 ## JavaScript | HTML | CSS & Front-end, APIs
 - Created an Urgent Care Appointment Scheduler web application. Users can select a date and time for their appointment, view available time slots, and submit their appointment details. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
 - Created an Image Search Application to search for images using the **Unsplash API**. https://github.com/yivvm/Project-API-Image-Search.git
@@ -51,7 +52,8 @@
 - Data Process for assignment submission. https://github.com/yivvm/JavaScript-SBA-308.git
 - Created a home page for a restaurant. https://github.com/yivvm/Project_html_LittleLemonRestaurant
 - Created my online resume.
-- Created a number-guessing game. 
+- Created a number-guessing game.
+(14)
 ## Python 
 - Converted many excel files to text files and json files for data analysis.
 - Created a menu page and menu items for a restaurant. https://github.com/yivvm/Project_Django_Menu
@@ -61,4 +63,4 @@
 ## Figma UX/UI
 - Created a wireframe and a high-fidelity prototype of a reservation page for a restaurant. https://github.com/yivvm/Project_UX_UI_Figma_LittleLemonRestaurant?tab=readme-ov-file
 
----37
+---36
