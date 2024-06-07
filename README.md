@@ -29,7 +29,7 @@
 - Created a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
  
 # Additional Practice
-## React
+## React (7)
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
 - Created a book search application using the **Open Libary API** and axios. It dynamically loads more books as you scroll down the page. https://github.com/yivvm/Project-React-Infinity-Scrolling-API.git
 - Created a Flashcard Quiz Application using React and **Open Trivia Database API**. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
