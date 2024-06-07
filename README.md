@@ -19,30 +19,24 @@
   7) https://github.com/yivvm/Project-Full-Stack-Booking-System/tree/main
 
 # Additional Practice
+## Front-end
+- Created a COMPLETE React Admin Dashboard web application which provides features for tracking project progress, managing tasks, and collaborating with team members. Technologies Used: HTML | CSS | JavaScript | React | React Router | Material UI | Data Grid | Light & Dark Mode | formik | yup | nivo Charts (Bar Chart, Pie Chart, Line Chart, Geography Chart, and etc). https://github.com/yivvm/Project-Dashboard.git
+- Created MedFinder, a React Doctor Search Engine with Redux State Management, is a web application built with React that allows users to search and browse a directory of doctors and healthcare providers. Users can refine their search results based on various criteria and view detailed information about each provider featured as flip cards. https://github.com/yivvm/Project-React-Doctorlist.git
 ## Back-end
-- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
-  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
-  2) The backend communicates with the MongoDB database to store and retrieve data.
-  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
-- Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
 - Created a server application with Mongoose, providing endpoints to manage information about national parks, park codes, and associated images. https://github.com/yivvm/Project-Mongoose-National-Parks-Info.git
+  - Created an express server application for an appointment scheduling system, implemented using Node.js and Express framework. It allows users to register, schedule appointments, leave reviews, and perform basic CRUD operations on user data, visit data, and review data. https://github.com/yivvm/Project-Express-Server-Application.git
+
 - Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
 - Created a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
 ## React
-- Created a fully functional web application with MERN, designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
-  1) It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
-  2) The backend communicates with the MongoDB database to store and retrieve data.
-  3) React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
-- Created MedFinder, a React Doctor Search Engine with Redux State Management, is a web application built with React that allows users to search and browse a directory of doctors and healthcare providers. Users can refine their search results based on various criteria and view detailed information about each provider featured as flip cards. https://github.com/yivvm/Project-React-Doctorlist.git
 - Created a reservation page and booking form for a restaurant. https://github.com/yivvm/Project_React_LittleLemonRestaurant
-- Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git
 - Created a full-stack web application capable of performing CRUD operations on notes built on MERN stack (MongoDB, Express.js, React.js, Node.js), offering a complete solution for note-taking and management, as well as providing user authentication features for secure access control. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-notes.git
-- Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
-- Created a fighters card game. https://github.com/yivvm/Project-React-Fighters-Card-Game.git
 - Created a book search application using the Open Libary API and axios. It dynamically loads more books as you scroll down the page. https://github.com/yivvm/Project-React-Infinity-Scrolling-API.git
 - Created a Flashcard Quiz Application using React and Open Trivia Database API. https://github.com/yivvm/Project-React-Flashcard_Quiz.git
 - Created 2 todo list applications using React. It allows users to add, edit, toggle, and delete todo items. Todos are stored locally using browser's localStorage API, so they persist even after the page is refreshed. https://github.com/yivvm/Project-React-Todo-List2.git; https://github.com/yivvm/Project-React-Todo-List.git
 - Created a React application that fetches and displays a list of Pokémon from the PokeAPI. https://github.com/yivvm/Project-React-Pokemon.git
+- Created a portfolio page. https://github.com/yivvm/Project_React_Portfolio
+- Created a fighters card game. https://github.com/yivvm/Project-React-Fighters-Card-Game.git
 ## JavaScript  
 - Created NParkdex, a web application that displays information about national parks. Users can filter national parks by state, mark their favorite parks, get a list of their favorite parks, and save the information of all parks in a JSON file. https://github.com/yivvm/Project-API-National-Park-NParkdex.git
 - Created an Urgent Care Appointment Scheduler web application. Users can select a date and time for their appointment, view available time slots, and submit their appointment details. https://github.com/yivvm/Project-JavaScript-Appointment-Scheduler-Web-Application.git
