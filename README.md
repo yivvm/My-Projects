@@ -1,5 +1,5 @@
 # My Projects
-## Full-Stack   
+## Full-Stack
       
 - Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
   - It provides functionality for creating, editing, and deleting patient visits, as well as viewing details of each visit.
