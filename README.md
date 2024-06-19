@@ -6,7 +6,7 @@
   - The backend communicates with the MongoDB database to store and retrieve data.
   - React.js is utilized to create an interactive user interface to schedule appointments and manage visits, as well as to search and browse a directory of doctors and healthcare providers.
   - Technologies Used: HTML | CSS | JavaScript | React | React Router | Redux (for managing application state) | Axios | Pokemon API | MongoDB | Express | Node.js | Mongoose   
-   
+       
 - Created a full-stack web application to upload, manage and showcase their photos in a gallery format, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). It allows users to perform CRUD (Create, Read, Update, Delete) operations on their photo collection, including uploading new photos, viewing existing photos, updating photo details, and deleting unwanted photos. https://github.com/yivvm/Project-Fullstack-MERN-CRUD-upload-photos.git  
    
 - Created a fully functional web application:
