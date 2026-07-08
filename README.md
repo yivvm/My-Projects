@@ -1,4 +1,9 @@
 # My Projects
+
+## Local LLMs & full-stack webapps
+- AI-powered prep tool that helps candidates land interviews and perform once they're in the room. It reviews your résumé, tailors it to a specific job description, and generates likely interview questions with answer scaffolds — all running locally on an open-source LLM, so your résumé never leaves your machine.
+https://github.com/yivvm/interview-pilot
+
 ## Full-Stack
        
 - Created a fully functional web application designed to schedule appointments and manage visits for an urgent care facility, built using the MERN stack (MongoDB, Express.js, React.js, Node.js). https://github.com/yivvm/Zhang_Yiwen_UrgentCareHub_Capstone.git
